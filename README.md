@@ -50,7 +50,7 @@ If the job allows me to improve the world in some way, I am at your service and 
 Personal conflicts are always bad. It will never help you nor the other person, no matter if you are a manager, teammate or subordinate. I strongly believe: **The ability to adjust and adapt yourself to the different kind of people and personalities is what makes you an amazing person** (being a manager or a teammate). Therefore:
 ### If you are my manager
 I will like you to be a good person. I will like to learn from you, the more the better. I will like you to give me freedom to think and be able to add value to the organization. I will like you to guide me in how to be better. I will like you to exploit my strengths. I will like you to help me overcome my weaknesses. I will like you to encourage me to get better.
-### if I am managing you
+### If I am managing you
 I will try to teach and guide you, as well as I will try to learn from you. I will encourage you to think for yourself and do your best. I will try to exploit your strengths. I will try to help you with your weaknesses. I won´t use you to achieve my personal goals and not the organization´s. I will try to make the work relationship we have benefits you in the same way it benefits me. I will encourage you to let me know if I do something that might impact negatively. And finally, I will try to be your friend.
 
 
