@@ -2,10 +2,11 @@
 Me and my interaction with others and the world
 
 ## What this is about
-The purpose of this document is to let other people know me, specially colleagues that are going to work and spend time with me.
+The purpose of this document is to let other people know me better, specially colleagues that are going to work and spend time with me.
 This will allow others to get to know me better and what you can expect from me as your co-worker and (likely) friend-to-be.
 Although I will describe me and my visions about work and the world in general, I am not writing this as a mean to let you know my expectations for you, or what I would like you be or how to behave with me.
 At the time of this writing, I am new at Elastic (less than a month) and due to the number of people from many different cultures and nationalities at Elastic, this can be helpful for you if we ever have further interaction :)
+If you are only interested in reading about the "at work" part, feel free to skip to "Working with me" section.
 
 ## Basic introduction
 My full name is Ernesto Reig Álvarez. I am 35 years old. I live in Alicante (Spain). My partner and fellow in life, Isis, is currently pregnant. Robin (the baby) is due in two weeks (06/06/2018), so we expect to have her soon between us :)
@@ -17,7 +18,23 @@ I love science, nature, animals and wildlife. I train callisthenics and I´m a b
 I believe in a balance between body and mind. I try to be fit (physically and mentally). In the past I used to be a Triathlete, but my real passion has always been sports where I can enjoy nature and exercise at the same time. That way I gradually migrated from Triathlon to Canyoning and Rock Climbing. I love adrenaline. I admit it. It is a natural drug that makes you an addict before you can even notice. I had been doing the most amazing and difficult canyons in Spain and Europe (Ticino in Switzerland). I gave up Canyoning due to the high risk you are constantly exposed to. There are levels in which you are not in control of your life anymore... Rock Climbing is the sport in which I have a constant challenge to improve and reach higher grades, you are always in nature and can be enjoyed with families and friends. I train Calisthenics as part of the training form climbing.
 
 ### Mental fitness
-I believe that mind can also be trained and I try to keep it as fit as possible. I know physical exercise also helps a lot with getting a healthy mind. Apart from that, I read books, I love solving logical problems and any kind of challenges for the mind. Sometimes I just read and learn the rules of new games just to discover new approaches and this about strategies.
+I believe that mind can also be trained and I try to keep it as fit as possible. Physical exercise also helps a lot with getting a healthy mind. Apart from that, I read books, I love solving logical problems and any kind of challenges for the mind. Sometimes I just read and learn the rules of new games just to discover new approaches and this about strategies.
 
-## Life
-I would like the world to be a fair place and I really mean it. I know the world is not fair, but I believe if everybody wanted to it to be fair, it would be fair. Therefore I always try to be fair in everything I do
+## My vision of life and the world around us
+I would like the world to be a fair place and I really mean it. I know life´s not fair, but I believe if everybody wanted to it to be fair, it would be. Therefore I always try to be fair in everything I do.
+Respect for others and for the world around us is what I have as my flag. I have a lot of sense of humour and I really like joking. If you find disrespectful any joke I make about you, please tell me and I will apologize. But really, I never try to cause pain or something similar.
+With this is mind, I find hard to get on well with people who don´t respect others or the world around us (meaning nature and animals).
+I believe nobody´s born better than other person. No matter whether you are stronger, or more intelligent or if you are born in a rich family. A person is what he does in life. The effort you put in improving yourself and the world around you is what makes you a better being.
+
+## Working with me
+You will find in me a colleague, a teammate and, if you want, a good friend.
+I don´t like working alone. I really like working in a team. I like sharing ideas, sharing knowledge. Be constantly learning from other people, as well as teaching whatever I know. I believe that having this continuous feedback and knowledge sharing, makes a really powerful team, in which everybody improves.
+I love working in multicultural teams. This enriches the team to the max. Sharing different ways of life and different ways of thinking is the most powerful thing we have in the world. If we can have this in an organization (company) then we are power.
+I like strong relationships. I like sharing stuff that´s not related to work. No matter if it´s sports, movies, music, science, raising children, books, technology or whatever it is you are interested in. If we spend 7 or 8 hours together every day (even if it´s through our screen in slack or zoom), why leave it there? We can benefit much more than that. We might have many hobbies, thoughts, or other stuff in common. So if you ever think about doing some stuff after work, count me in, please.
+The above mentioned goes for whatever role we have in the organization. No matter if you are my manager, I am managing you or we are at the same level in the organization, or we just work in different areas.
+### If you are my manager
+I will like to learn from you, the more the better. I will like you to be a good person. I will like you to give me freedom to think and be able to add value to the organization. I will like you to guide me in how to be better. I would like you to exploit my strengths. I will like you to help me fight my weaknesses. I will like you to encourage me to get better.
+### if I am managing you
+I will try to teach and guide you, as well as I will try to learn from you. I will encourage you to think for yourself and do your best. I will try to exploit your strengths. I will try to help you with your weaknesses. I won´t use you to achieve my personal goals and not the organization´s. I will try to make the work relationship we have benefits you in the same way it benefits me. And finally, I will try to be your friend.
+
+
