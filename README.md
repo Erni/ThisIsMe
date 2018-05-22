@@ -28,9 +28,13 @@ I believe nobody´s born better than other person. No matter whether you are str
 
 ## Working with me
 You will find in me a colleague, a teammate and, if you want, a good friend.
+
 I don´t like working alone. I really like working in a team. I like sharing ideas, sharing knowledge. Be constantly learning from other people, as well as teaching whatever I know. I believe that having this continuous feedback and knowledge sharing, makes a really powerful team, in which everybody improves.
+
 I love working in multicultural teams. This enriches the team to the max. Sharing different ways of life and different ways of thinking is the most powerful thing we have in the world. If we can have this in an organization (company) then we are power.
+
 I like strong relationships. I like sharing stuff that´s not related to work. No matter if it´s sports, movies, music, science, raising children, books, technology or whatever it is you are interested in. If we spend 7 or 8 hours together every day (even if it´s through our screen in slack or zoom), why leave it there? We can benefit much more than that. We might have many hobbies, thoughts, or other stuff in common. So if you ever think about doing some stuff after work, count me in, please.
+
 The above mentioned goes for whatever role we have in the organization. No matter if you are my manager, I am managing you or we are at the same level in the organization, or we just work in different areas.
 ### If you are my manager
 I will like to learn from you, the more the better. I will like you to be a good person. I will like you to give me freedom to think and be able to add value to the organization. I will like you to guide me in how to be better. I would like you to exploit my strengths. I will like you to help me fight my weaknesses. I will like you to encourage me to get better.
