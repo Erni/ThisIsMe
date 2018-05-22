@@ -6,7 +6,7 @@ The purpose of this document is to let other people know me better, specially co
 This will allow others to get to know me better and what you can expect from me as your co-worker and (likely) friend-to-be.
 Although I will describe me and my visions about work and the world in general, I am not writing this as a mean to let you know my expectations for you, or what I would like you be or how to behave with me.
 At the time of this writing, I am new at Elastic (less than a month) and due to the number of people from many different cultures and nationalities at Elastic, this can be helpful for you if we ever have further interaction :)
-If you are only interested in reading about the "at work" part, feel free to skip to [About job and working with me] section.
+If you are only interested in reading about the "at work" part, feel free to skip to "About job and working with me" section.
 
 ## Basic introduction
 My full name is Ernesto Reig Álvarez. I am 35 years old. I live in Alicante (Spain). My partner and fellow in life, Isis, is currently pregnant. Robin (the baby) is due in two weeks (06/06/2018), so we expect to have her soon between us :)
@@ -44,11 +44,16 @@ I really like transparency. Coming from the manager, from the managed, from team
 
 I don´t judge. Fixations, obsessions or your own ways of doing things are welcome. We all have them.
 
+I need a job/personal-life balance. This balance gets the most out of me. I understand the need in keeping this balance efficiency is maxed.
+If the job allows me to improve the world in some way, I am at your service and unconsciously I will do my best. Unconditional love for Nature and Science related projects.
+
 Personal conflicts are always bad. It will never help you nor the other person, no matter if you are a manager, teammate or subordinate. I strongly believe: **The ability to adjust and adapt yourself to the different kind of people and personalities is what makes you an amazing person** (being a manager or a teammate). Therefore:
 ### If you are my manager
 I will like you to be a good person. I will like to learn from you, the more the better. I will like you to give me freedom to think and be able to add value to the organization. I will like you to guide me in how to be better. I will like you to exploit my strengths. I will like you to help me overcome my weaknesses. I will like you to encourage me to get better.
 ### if I am managing you
-I will try to teach and guide you, as well as I will try to learn from you. I will encourage you to think for yourself and do your best. I will try to exploit your strengths. I will try to help you with your weaknesses. I won´t use you to achieve my personal goals and not the organization´s. I will try to make the work relationship we have benefits you in the same way it benefits me. I will encourage you to let me know if I do something that might impact negatively. And finally, I will try to be your friend. 
+I will try to teach and guide you, as well as I will try to learn from you. I will encourage you to think for yourself and do your best. I will try to exploit your strengths. I will try to help you with your weaknesses. I won´t use you to achieve my personal goals and not the organization´s. I will try to make the work relationship we have benefits you in the same way it benefits me. I will encourage you to let me know if I do something that might impact negatively. And finally, I will try to be your friend.
+
+
 ### Elastic love
 Elastic was born in a humble way from a humble man. Elastic keeps being humble.
 
