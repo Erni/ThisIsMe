@@ -10,21 +10,22 @@ If you are only interested in reading about the "at work" part, feel free to ski
 
 ## Basic introduction
 My full name is Ernesto Reig Álvarez. I am 35 years old. I live in Alicante (Spain). My partner and fellow in life, Isis, is currently pregnant. Robin (the baby) is due in two weeks (06/06/2018), so we expect to have her soon between us :)
-I was born in Alcoy, close to Alicante city. I lived there for my first 21 years. I graduated in Computer Science (3 years) in Alcoi, then I moved to Valencia to get the higher degree in Software Engineering (2 years more) in 2008.
+I was born in Alcoy, close to Alicante city. I lived there for my first 21 years. I graduated in Computer Science (3 years) in Alcoy, then I moved to Valencia to get the higher degree in Software Engineering (2 years more) in 2008.
 I love science, nature, animals and wildlife. I train callisthenics and I´m a board game geek.
 
 ## Body and Mind
 ### Sports and Physical exercise
-I believe in a balance between body and mind. I try to be fit (physically and mentally). In the past I used to be a Triathlete, but my real passion has always been sports where I can enjoy nature and exercise at the same time. That way I gradually migrated from Triathlon to Canyoning and Rock Climbing. I love adrenaline. I admit it. It is a natural drug that makes you an addict before you can even notice. I had been doing the most amazing and difficult canyons in Spain and Europe (Ticino in Switzerland). I gave up Canyoning due to the high risk you are constantly exposed to. There are levels in which you are not in control of your life anymore... Rock Climbing is the sport in which I have a constant challenge to improve and reach higher grades, you are always in nature and can be enjoyed with families and friends. I train Calisthenics as part of the training form climbing.
+I believe in a balance between body and mind. I try to be fit (physically and mentally). In the past I used to be a Triathlete, but my real passion has always been sports where I can enjoy nature and exercise at the same time. That way I gradually migrated from Triathlon to Canyoning and Rock Climbing. I love adrenaline. I admit it. It is a natural drug that makes you an addict before you can even notice. I have been doing amazing and difficult canyons in Spain and Europe (Ticino in Switzerland). I gave up Canyoning due to the high risk you are constantly exposed to. There are levels in which you are not in control of your life anymore... Rock Climbing is the sport in which I have a constant challenge to improve and reach higher grades, you are always in nature and can be enjoyed with families and friends. I train Calisthenics as part of the training for climbing.
 
 ### Mental fitness
-I believe that mind can also be trained and I try to keep it as fit as possible. Physical exercise also helps a lot with getting a healthy mind. Apart from that, I read books, I love solving logical problems and any kind of challenges for the mind. Sometimes I just read and learn the rules of new games just to discover new approaches and this about strategies.
+I believe that mind can also be trained and I try to keep it as fit as possible. Physical exercise also helps a lot with getting a healthy mind. Apart from that, I read books, I love solving logical problems and any kind of challenges for the mind. Sometimes I just read and learn the rules of new games just to discover new approaches and strategies.
 
 ## My vision of life and the world around us
 I would like the world to be a fair place and I really mean it. I know life´s not fair, but I believe if everybody wanted to it to be fair, it would be. Therefore I always try to be fair in everything I do.
 Respect for others and for the world around us is what I have as my flag. I have a lot of sense of humour and I really like joking. If you find disrespectful any joke I make about you, please tell me and I will apologize. But really, I never try to cause pain or something similar.
 
 With this is mind, I find hard to get on well with people who don´t respect others or the world around us (meaning nature and animals).
+
 I believe nobody´s born better than other person. No matter whether you are stronger, or more intelligent or if you are born in a rich family. A person is what he does in life. The effort you put in improving yourself and the world around you is what makes you a better being.
 
 I really appreciate being around people. Many people can teach you an interesting thing. So if you ever want to meet or just talk, do not hesitate to let me know, I will be willing to do so.
@@ -32,11 +33,11 @@ I really appreciate being around people. Many people can teach you an interestin
 ## About job and working with me
 You will find in me a colleague, a teammate and, if you want, a good friend.
 
-I don´t like working alone. I really like working in a team. I like sharing ideas, sharing knowledge. Be constantly learning from other people, as well as teaching whatever I know. I believe that having this continuous feedback and knowledge sharing, makes a really powerful team, in which everybody improves.
+I don´t like working alone. I really like working in a team. I like sharing ideas, sharing knowledge, be constantly learning from other people, as well as teaching whatever I know. I believe that having this continuous feedback and knowledge sharing makes a really powerful team, in which everybody improves.
 
 I love working in multicultural teams. This enriches the team to the max. Sharing different ways of life and different ways of thinking is the most powerful thing we have in the world. If we can have this in an organization (company) then we are power.
 
-I like strong relationships. I like sharing stuff that´s not related to work. No matter if it´s sports, movies, music, science, raising children, books, technology or whatever it is you are interested in. If we spend 7 or 8 hours together every day (even if it´s through our screen in slack or zoom), why leave it there? We can benefit much more than that. We might have many hobbies, thoughts, or other stuff in common. So if you ever think about doing some stuff after work, count me in, please.
+I like strong relationships. I like sharing stuff that´s not related to work. No matter if it´s sports, movies, music, science, raising children, books, technology or whatever it is you are interested in. If we spend 7 or 8 hours together every day (even if it´s through our screen in slack or zoom), why leave it there? We can benefit much more than that. We might have many hobbies, thoughts, or other stuff in common. So if you ever think about sharing or doing some stuff after work, count me in, please.
 
 The above mentioned goes for whatever role we have in the organization. No matter if you are my manager, I am managing you or we are at the same level in the organization, or we just work in different areas.
 
@@ -46,7 +47,8 @@ I try not to judge. Fixations, obsessions or your own ways of doing things are w
 
 I need a job/personal-life balance. This balance gets the most out of me. I believe that when keeping this balance efficiency is maxed.
 
-If the job allows me to improve the world in some way, I am at your service and unconsciously I will do my best. Unconditional love for Nature and Science related projects.
+If the job allows me to improve the world in some way, I am at your service and I will do my best unconsciously.
+Unconditional love for Nature and Science related projects.
 
 Personal conflicts are always bad. It will never help you nor the other person, no matter if you are a manager, teammate or subordinate. I strongly believe: **The ability to adjust and adapt yourself to the different kind of people and personalities is what makes you an amazing person** (being a manager or a teammate). Therefore:
 ### If you are my manager
