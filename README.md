@@ -42,9 +42,10 @@ The above mentioned goes for whatever role we have in the organization. No matte
 
 I really like transparency. Coming from the manager, from the managed, from teammates, or the company. I´m committed to be transparent.
 
-I don´t judge. Fixations, obsessions or your own ways of doing things are welcome. We all have them.
+I try not to judge. Fixations, obsessions or your own ways of doing things are welcome. We all have them.
 
-I need a job/personal-life balance. This balance gets the most out of me. I understand the need in keeping this balance efficiency is maxed.
+I need a job/personal-life balance. This balance gets the most out of me. I believe that when keeping this balance efficiency is maxed.
+
 If the job allows me to improve the world in some way, I am at your service and unconsciously I will do my best. Unconditional love for Nature and Science related projects.
 
 Personal conflicts are always bad. It will never help you nor the other person, no matter if you are a manager, teammate or subordinate. I strongly believe: **The ability to adjust and adapt yourself to the different kind of people and personalities is what makes you an amazing person** (being a manager or a teammate). Therefore:
